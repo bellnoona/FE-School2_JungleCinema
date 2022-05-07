@@ -30,3 +30,14 @@ button {
   outline: none;
   cursor: pointer;
 }
+
+.cont-movie {
+  margin: 86px 430px;
+  background-color: #f2f2f2;
+  border: 2px solid #bdbdbd;
+  border-radius: 15px;
+}
+
+.tit-cont {
+  margin: 127px auto;
+}
